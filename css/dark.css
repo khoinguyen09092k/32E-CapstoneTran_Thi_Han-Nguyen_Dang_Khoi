@@ -1,0 +1,89 @@
+#header {
+    background-color: #151515;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+    transition: all 1s;
+    font-size: 1.2rem;
+}
+
+.expand-container i.moon {
+    color: #ffffff;
+}
+
+
+
+
+
+
+/* carousel */
+.py-4 {
+    background-color: #151515;
+}
+
+.about h1 {
+    color: #dddddd;
+
+}
+
+.about p {
+    color: #afafaf;
+}
+
+/* services */
+.services {
+    background-color: #222222;
+
+}
+
+.services__item {
+    background-color: #151515;
+
+}
+
+.services__item .services__title a {
+
+    color: #dddddd;
+
+
+}
+
+.services__item p {
+    color: #afafaf;
+
+}
+
+.services__item a {
+    color: #dddddd;
+
+}
+
+.services__item a:hover {
+    color: #189a46;
+}
+
+/* choose */
+.pb-5,
+.py-5 {
+    background-color: #151515;
+}
+
+.choose__content h1 {
+    color: #dddddd;
+
+
+}
+
+.choose__content p {
+    color: #afafaf;
+
+}
+
+.choose__content ul li i {
+    background-color: #222222
+}
+
+.choose__content ul li {
+    color: #dddddd;
+}
